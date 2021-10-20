@@ -1,6 +1,0 @@
-C:\ITG\TTUsers\diepdv\ProjectRD\MQTT\MQTTnetExample\MQTTnetBroker\bin\Debug\MQTTnetBroker.exe.config
-C:\ITG\TTUsers\diepdv\ProjectRD\MQTT\MQTTnetExample\MQTTnetBroker\bin\Debug\MQTTnetBroker.exe
-C:\ITG\TTUsers\diepdv\ProjectRD\MQTT\MQTTnetExample\MQTTnetBroker\bin\Debug\MQTTnetBroker.pdb
-C:\ITG\TTUsers\diepdv\ProjectRD\MQTT\MQTTnetExample\MQTTnetBroker\bin\Debug\MQTTnet.dll
-C:\ITG\TTUsers\diepdv\ProjectRD\MQTT\MQTTnetExample\MQTTnetBroker\obj\Debug\MQTTnetBroker.exe
-C:\ITG\TTUsers\diepdv\ProjectRD\MQTT\MQTTnetExample\MQTTnetBroker\obj\Debug\MQTTnetBroker.pdb
